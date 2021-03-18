@@ -1,0 +1,20 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "excel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "read-excel-file": "^5.0.0",
+    "xlsx": "^0.16.9"
+  }
+}
